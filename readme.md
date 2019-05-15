@@ -1,3 +1,3 @@
 DATA2040 Final Project
 
-Sean Abreau, Nakarit Suthapreda, Qingyu Ye, Guanhua Zhu
+Matthew Owen, Nakarit Suthapreda, Qingyu Ye, Guanhua Zhu
