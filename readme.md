@@ -1,5 +1,4 @@
-DATA2040 Final Project
+DATA2040 Final Project (May 2019)
+by Matthew Owen, Nakarit Suthapreda, Qingyu Ye, Guanhua Zhu
 
-Matthew Owen, Nakarit Suthapreda, Qingyu Ye, Guanhua Zhu
-
-RNN data (2016-2017 from LAX): https://www.dropbox.com/s/tx0yvl1mnn8r5h4/cleaned_LAX.csv?dl=0
+Please refer to the Wiki within this repository for the individual mini-project blog posts.
